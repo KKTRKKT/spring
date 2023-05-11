@@ -1,4 +1,4 @@
-package me.kktrkkt.spring.bean_scope;
+package me.kktrkkt.spring.ioc_container.bean_scope;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

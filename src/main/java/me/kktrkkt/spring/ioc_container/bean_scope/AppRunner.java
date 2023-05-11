@@ -1,4 +1,4 @@
-package me.kktrkkt.spring.bean_scope;
+package me.kktrkkt.spring.ioc_container.bean_scope;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;

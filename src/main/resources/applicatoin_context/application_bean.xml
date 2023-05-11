@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="bookService" class="me.kktrkkt.spring.application_context.BookService"/>
-    <bean id="bookRepository" class="me.kktrkkt.spring.application_context.BookRepository"/>
+    <bean id="bookService" class="me.kktrkkt.spring.ioc_container.application_context.BookService"/>
+    <bean id="bookRepository" class="me.kktrkkt.spring.ioc_container.application_context.BookRepository"/>
 
 </beans>

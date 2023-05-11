@@ -1,4 +1,4 @@
-package me.kktrkkt.spring.application_context;
+package me.kktrkkt.spring.ioc_container.application_context;
 
 import org.springframework.stereotype.Repository;
 

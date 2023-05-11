@@ -1,6 +1,5 @@
-package me.kktrkkt.spring.application_context;
+package me.kktrkkt.spring.ioc_container.application_context;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
